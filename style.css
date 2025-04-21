@@ -1,0 +1,29 @@
+ul{
+    
+    list-style-type: circle;
+    margin:0;
+    padding: 0;
+    background-color: chocolate;
+}
+li a{
+    color:white;
+}
+h3{
+    background:-moz-linear-gradient(chocolate,white);
+    color:white;
+}
+h1{
+    color: white;
+}
+li{
+    display:inline;
+    padding-right:170px;
+}
+img{
+    height: 250px;
+    width: 250px;
+    padding:25px;
+}
+body{
+    background-color: burlywood;
+}
